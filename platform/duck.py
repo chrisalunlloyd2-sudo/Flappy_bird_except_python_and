@@ -3,11 +3,11 @@ import os
 class Duck:
     def __init__(self, path):
         self.path = os.path.abspath(path)
-    
+
     def move_duck(self):
         # Implementation of duck's movement logic
         pass
-    
+
     def see_world(self):
         print(f"Moving in {self.path}")
 

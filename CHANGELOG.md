@@ -3,6 +3,7 @@
 All notable changes to this project.
 
 ## 2026-08
+- **[Changed]** [Moe autonomous] Flappy_bird_except_python_and 2026-08-14 16:14 ($hash)
 - **[Changed]** [Moe autonomous] Flappy_bird_except_python_and 2026-08-14 15:19 ($hash)
 - **[Changed]** [Moe autonomous] Flappy_bird_except_python_and 2026-08-14 12:56 ($hash)
 - **[Changed]** [Moe autonomous] Flappy_bird_except_python_and 2026-08-14 11:09 ($hash)
@@ -52,5 +53,4 @@ All notable changes to this project.
 - **[Changed]** [Moe autonomous] Flappy_bird_except_python_and 2026-08-12 15:44 ($hash)
 - **[Changed]** [Moe autonomous] Flappy_bird_except_python_and 2026-08-12 14:36 ($hash)
 - **[Changed]** [Moe autonomous] Flappy_bird_except_python_and 2026-08-12 13:48 ($hash)
-- **[Changed]** [Moe autonomous] Flappy_bird_except_python_and 2026-08-12 12:47 ($hash)
 
